@@ -1,5 +1,7 @@
 # Arduino Cmake Example Project
 
+[DEPRECATED] Use [Arduino-CMake-NG](https://github.com/arduino-cmake/Arduino-CMake-NG) instead.
+
 This is the Cmake project settings for the Arduino platform. You can use this project as an example to develop C++ programs in JetBrains CLion IDE for Arduino and using toolchain from Arduino IDE 1.6+.
 
 This project correctly works and tested in Windows with MinGW, but it should work in linux and mac with standard cmake/make pakages.
